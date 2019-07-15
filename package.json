@@ -8,7 +8,7 @@
     "name": "Gabe Gorelick"
   },
   "engines": {
-    "node": ">=0.10.0"
+    "node": "^10.13.0"
   },
   "scripts": {
     "lint": "eslint *.js lib/**/*.js test/**/*.js",
@@ -26,15 +26,15 @@
   ],
   "main": "index.js",
   "dependencies": {
-    "angular-gettext-tools": "^2.2.0",
+    "angular-gettext-tools": "^2.4.3",
     "gulp-util": "^3.0.7",
     "lodash": "^4.17.14",
-    "through2": "^2.0.1"
+    "through2": "^3.0.1"
   },
   "devDependencies": {
-    "chai": "^3.5.0",
-    "eslint": "^2.10.2",
-    "mocha": "^2.4.5",
-    "pofile": "^1.0.2"
+    "chai": "^4.2.0",
+    "eslint": "^6.0.1",
+    "mocha": "^6.1.4",
+    "pofile": "^1.1.0"
   }
 }
