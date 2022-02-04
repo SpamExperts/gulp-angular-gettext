@@ -35,7 +35,7 @@
   "devDependencies": {
     "chai": "^4.2.0",
     "eslint": "^6.0.1",
-    "mocha": "^6.1.4",
+    "mocha": "^9.1.2",
     "pofile": "^1.1.0"
   }
 }
